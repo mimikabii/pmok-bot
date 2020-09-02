@@ -1,21 +1,29 @@
 import random
 import tweepy
 import time
+import os
+from os import environ
 
 #Auth to Twitter
-auth = tweepy.OAuthHandler("pq61bLwHtKz2RWZLzaGgoCYOn", "EXvG1Yso2m3fXN44X6O6yz8Pma9oRoonXODs7OBllLxaKcnKHH")
-auth.set_access_token("1286655590454964227-38BNtrJKLoADLEypfHKm4VxrmNP9qc", "bNLgKnLRAvZsDVD41UhEKbFqWquKBhALsQkGYnOqoeslz")
+CON_KEY = environ['CON_KEY']
+CON_SECRET = environ['CON_SECRET']
+ACC_KEY = environ['ACC_KEY']
+ACC_SECRET = environ['ACC_SECRET']
+
+auth = tweepy.OAuthHandler(CON_KEY,CON_SECRET)
+auth.set_access_token(ACC_KEY,ACC_SECRET)
 
 #Create API object
 api= tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify= True)
+
 
 #quote obtaining
 path = 'quotes.txt'
 while True:
     quote = ""
     with open(path, encoding='utf8') as f:
-        lines=f.readlines()
-        quote=(random.choice(lines))
+        lines= f.readlines()
+        quote = (random.choice(lines))
     print (quote)
     #print out tweet
     api.update_status(quote)
