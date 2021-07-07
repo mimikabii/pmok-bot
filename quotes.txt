@@ -293,7 +293,7 @@ It looks pretty heavy. I don’t think we’ll be able to move it ourselves.
 Your brother’s hat!
 Hmm, someone wrote “Luigi” on the inside in very small letters... Is that something Luigi would do?
 Where could he be, Mario?
-Oh... It’s almost like the hat just spoke to me in Luigi’s voice, asking me for help…
+Oh... It’s almost like the hat just spoke to me in Luigi’s voice, asking me for help...
 There it is again! It almost sounds like he’s in between dimensions like I was...but how could that be?
 Oh, poor Luigi. I’m sure he’s met with a really bad fate thanks to my brother. 
 Mario...can I keep this hat as a memory? I didn’t know Luigi, but I miss him anyway... 
@@ -305,7 +305,20 @@ How awful for you. But at least you didn’t get turned into a Folded Soldier...
 Oh! But I do have some good news. Your hat survived without you.
 Aww, I thought you’d be happier to see the hat. Well, my brother kidnapped Peach and her castle.
 We’re on our way to stop him right now, but it’s a long way and there are streamers blocking us.
-Well...we definitely will.
+Well...we definitely might need the key if we make it to the castle. So let’s pin all our hopes on Luigi!
+Good luck, Luigi! See you later!
+Well, now that we know he’s OK, what should we do next?
+I mean, we’re still headed to Peach’s Castle, but should we look around here for clues first?
+Oh, someone moved that pile of junk that was here!
+It was probably Luigi, wasn’t it? I wish my brother were as kind and thoughtful as yours.
+Oh, I think we found the castle. It’s right there!
+But I don’t know how we’re going to make it past those streamers. They’re weirdly strong for paper!
+Plus, it looks like they’re coming from different places. Will we have to go all over the world to unravel them?
+So if the red streamer is going in this direction...
+It seems like following it will lead us where we need to go, doesn't it?
+Hey! It sounds like someone nearby is in the same kind of jam I was in earlier. Should we help them?
+Isn’t that a voice calling for help? Are we going to ignore it?
+Are we just going to leave him here? It seems like he REALLY wants to get back to his shop.
 ...Help me!
 ...I’m all folded up somewhere! Maybe in between dimensions? Someone hellllp!
 ...Um... 
@@ -321,6 +334,7 @@ My hat?! But what happened to the whole castle? And where’s Princess Peach?
 Oh! That’s right! I was gonna go look for the key to Peach’s Castle. We got locked in, remember?
 Mario’s always saving me...so I just wanted to do something nice for him for a change. 
 I’m really happy to see my hat again...but I’ve still gotta find that key. Let’s-a go!
+...I do need the hat.
 Let’s-a go!
 Who’s there?!
 Yes! I’m saved!
@@ -329,6 +343,20 @@ Pardon me–I should introduce myself. I’m the curator of Musée Champignon in
 It’s a museum with a splendid collection of objects, music, treasures, origami, and other wondrous items.
 And we have even managed to acquire the legendary Super Marino sea vessel, believe it or not!
 I do hope you’ll come visit soon! We’re open...even with all of the origamized crime we’ve seen of late.
+Somebody...help me! I’m in between dimensions!
+In case I wasn’t clear-I don’t like it in here! Help!
+Oh, whew. Thank you so much! Now I can get back to my shop in Toad Town. I hate to be away for more than a few minutes, you see. 
+It’s a big problem and I’m working on my control issues...but we have weapons, items and all sorts of useful things. Stop by!
+Aw, man! The bridge didn’t used to be all broken like this! How am I supposed to get back to my shop?!
+This is fine. This is fine. This is fine. THIS IS FINE. I’m not losing it about the bridge being disconnected…
+Oh my gosh oh my gosh oh my gosh...You fixed it! Thank you!
+I’m literally going to sprint over to my shop now, but first, here’s a free sample of my wares. Enjoy!
+I’m off! Gotta put out the fire that I assume is burning down my shop because I wasn’t there!
+I just can’t get enough of the water, even though I’m paper! My therapist says I’m a contrarian, but I don’t agree.
+Hey, remember me? You pulled me back from another dimension so I can work 18-hour days in this shop!
+Can’t thank you enough for that. Anyway, we’ve got some good items and weapons here. Check it out!
+Hi! What can I get you? Please spend generously!
+Thanks! Come again!
 Ehh? It’s not ready yet! Come back later!
 Oh! Whew! I thought you might be one of those hideous folded guys or something.
 You think something’s in there? Could be. Seemed like those folded guys were messing around in here forever!
@@ -342,7 +370,7 @@ What ARE those folded things, anyways? I’ve been hiding in here since the mome
 ...Keep it on the down low, wouldya?
 I’m just tryin’ to save my own snif, if you catch my drift. Hidin’ out here until them things are history.
 I s’pose I could sell you some stuff while I’m here. 
-Hey, I’m not the owner. Have a sample on the house! The first one is free…
+Hey, I’m not the owner. Have a sample on the house! The first one is free...
 Thanks. Now scram!
 ...SHHHH! Whaddaya havin’?
 Whatever, pal. Now scram!
